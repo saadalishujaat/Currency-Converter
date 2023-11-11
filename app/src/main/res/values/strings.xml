@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverterSwipeBox</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enter_amount_in_eur">Enter amount in EUR</string>
+    <string name="rates">Rates</string>
+    <string name="charts">Charts</string>
+</resources>
